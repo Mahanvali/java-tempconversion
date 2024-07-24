@@ -2,8 +2,6 @@ package tempconversion.src;
 
 import java.util.Scanner;
 
-//  TODO: ADD KELVIN
-
 public class Main {
     static void CelsiusToFahrenheit(Scanner inputObj){
         System.out.print("Celsius: ");
